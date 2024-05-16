@@ -4,6 +4,7 @@
 ![GitHub](https://img.shields.io/github/license/WeAreHellMaker/HellArm_MK2_Arduino_PCA9685?style=flat-square)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=WeAreHellMaker.HellArm_MK2_Arduino_PCA9685)
 
+Here's an Arduino code to control the EEZYbotARM Mk1 & Mk2 robotic arm using a PS2 controller with servo motors.
 
 ## Contents
 
