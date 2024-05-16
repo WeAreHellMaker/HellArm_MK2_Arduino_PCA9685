@@ -6,7 +6,7 @@
 
 Here's an Arduino code to control the EEZYbotARM Mk1 & Mk2 robotic arm using a PS2 controller with servo motors.
 
-[![Watch the video](images/HellArm.jpg)]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/ASXCSkmj90s))
+[![Watch the video](images/HellArm.jpg)](https://youtu.be/ASXCSkmj90s)
 
 ## Contents
 
