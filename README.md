@@ -29,4 +29,13 @@ https://github.com/madsci1016/Arduino-PS2X
 
 This library is used to control a PS2 controller.
 
+## References
 
+I referred to the following GitHub repositories for this project:
+
+- [meisben's Repository](https://github.com/meisben/easyEEZYbotARM) 
+- [marcelolarios's Repository](https://github.com/marcelolarios/R2D2-Sound-Generator)
+
+
+  
+  
