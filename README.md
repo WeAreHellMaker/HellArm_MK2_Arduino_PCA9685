@@ -12,3 +12,10 @@ Here's an Arduino code to control the EEZYbotARM Mk1 & Mk2 robotic arm using a P
 
 ## Introduction
 
+### Installation (arduino)
+
+To install the arduino code it is as simple as uploading the sketch 'arduino\HellArm_MK2_Arduino_PCA9685' to the arduino microcontroller.
+
+The easiest way to do this is using the arduino IDE, see instructions at: https://www.arduino.cc/en/Main/Software 
+
+The arduino software uses ArminJo's ServoEasing library so that the motions of the servo motors are smooth and not sudden 'jolts'. **Important:** You must uncomment the line `#define USE_PCA9685_SERVO_EXPANDER` in the file *ServoEasing.h* (as per the instructions for ServoEasing). The file *ServoEasing.h* can be found in the [Arduino libraries directory](https://www.arduino.cc/en/guide/libraries). 
