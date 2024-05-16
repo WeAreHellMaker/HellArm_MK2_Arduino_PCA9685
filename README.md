@@ -33,8 +33,13 @@ This library is used to control a PS2 controller.
 
 I referred to the following GitHub repositories for this project:
 
-- [meisben's Repository](https://github.com/meisben/easyEEZYbotARM) 
+- [meisben's Repository](https://github.com/meisben/easyEEZYbotARM)
+
+  > This repository provided the foundation for the Arm's servo control integration.
+
 - [marcelolarios's Repository](https://github.com/marcelolarios/R2D2-Sound-Generator)
+
+  > This repository provided the sound generation for the R2D2.
 
 
   
